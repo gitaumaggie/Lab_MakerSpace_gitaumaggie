@@ -83,7 +83,7 @@ def validate_date(date_text):
 
 def show_menu():
     """Display the main system menu."""
-    print("\n===== CAMPUS MAKESPACE CHECKOUT SYSTEM =====")
+    print("\n===== CAMPUS MAKERSPACE CHECKOUT SYSTEM =====")
     print("1. Register Member")
     print("2. List Members")
     print("3. Register Equipment")
