@@ -1,0 +1,4 @@
+makerspace.db
+makerspace_backup.db
+__pycache__/
+*.pyc
